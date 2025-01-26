@@ -1,0 +1,93 @@
+[
+    {
+      "id": "0282e1",
+      "others_info": {
+        "is_todays_pick": true,
+        "is_trending": true
+      },
+      "category_id": "101",
+      "rating": 4.5,
+      "total_view": 15000,
+      "title": "Breaking News: Technology Advances in 2025",
+      "author": {
+        "name": "John Doe",
+        "publish_date": "2025-01-25"
+      },
+      "thumbnail_url": "https://i.ibb.co/m6Bx5QZ/images-1.jpg",
+      "image_url": "https://example.com/image1.jpg",
+      "details": "The year 2025 has brought revolutionary advancements in technology that are transforming industries worldwide. Artificial intelligence continues to evolve, introducing smarter solutions in healthcare, education, and business operations. Blockchain technology is making financial transactions more secure, while 3D printing is enabling rapid production in manufacturing. Meanwhile, space agencies are progressing in their quest to establish sustainable human settlements on Mars. These technological leaps signify a new era of innovation and promise a future filled with groundbreaking achievements."
+    },
+    {
+      "id": "0282e2",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "102",
+      "rating": 4.8,
+      "total_view": 25000,
+      "title": "Health Innovations Transforming Lives",
+      "author": {
+        "name": "Jane Smith",
+        "publish_date": "2025-01-24"
+      },
+      "thumbnail_url": "https://i.ibb.co/2dcysDy/images.jpg",
+      "image_url": "https://example.com/image2.jpg",
+      "details": "Healthcare is undergoing a transformative era in 2025 with innovative approaches to personalized medicine and advanced diagnostic tools. Breakthroughs in gene editing, such as CRISPR, are allowing for the treatment of previously incurable genetic disorders. Wearable devices are becoming more accurate, enabling real-time monitoring of patients' health conditions. AI-powered virtual assistants are also streamlining patient care by automating administrative tasks and enhancing communication between doctors and patients. The future of healthcare is brighter than ever as these innovations improve the quality and accessibility of medical services."
+    },
+    {
+      "id": "0282e3",
+      "others_info": {
+        "is_todays_pick": true,
+        "is_trending": false
+      },
+      "category_id": "103",
+      "rating": 4.2,
+      "total_view": 12000,
+      "title": "Global Markets Show Positive Trends",
+      "author": {
+        "name": "Alex Johnson",
+        "publish_date": "2025-01-23"
+      },
+      "thumbnail_url": "https://i.ibb.co/2dcysDy/images.jpg",
+      "image_url": "https://example.com/image3.jpg",
+      "details": "Amid economic uncertainties, global stock markets are showing positive trends in 2025, driven by strong corporate earnings and government support. Emerging markets are experiencing growth due to increased investments in technology and renewable energy sectors. The real estate market has also stabilized, with urban development projects attracting investors worldwide. Despite challenges posed by inflation and geopolitical tensions, financial experts remain optimistic about sustained growth, emphasizing the importance of strategic planning and innovation for long-term economic stability."
+    },
+    {
+      "id": "0282e4",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "104",
+      "rating": 3.9,
+      "total_view": 8000,
+      "title": "Sports Update: Exciting Matches Ahead",
+      "author": {
+        "name": "Emily Watson",
+        "publish_date": "2025-01-22"
+      },
+      "thumbnail_url": "https://i.ibb.co/2dcysDy/images.jpg",
+      "image_url": "https://example.com/image4.jpg",
+      "details": "Sports enthusiasts are eagerly anticipating a thrilling season in 2025, with major tournaments across football, cricket, and tennis. The FIFA World Cup qualifiers are heating up, with teams battling fiercely for a spot in the main event. In cricket, the T20 league promises action-packed matches with top players from around the world. Meanwhile, the Grand Slam tournaments in tennis are set to showcase intense rivalries and emerging talents. Fans are gearing up to witness unforgettable moments in the sports arena this year."
+    },
+    {
+      "id": "0282e5",
+      "others_info": {
+        "is_todays_pick": true,
+        "is_trending": true
+      },
+      "category_id": "105",
+      "rating": 4.7,
+      "total_view": 17000,
+      "title": "Entertainment Buzz: Top Movies of 2025",
+      "author": {
+        "name": "Sarah Parker",
+        "publish_date": "2025-01-21"
+      },
+      "thumbnail_url": "https://i.ibb.co/2dcysDy/images.jpg",
+      "image_url": "https://example.com/image5.jpg",
+      "details": "The entertainment industry in 2025 is off to an incredible start with a lineup of blockbuster movies. From action-packed superhero films to heartwarming dramas, this year’s cinematic offerings cater to diverse audiences. Directors are experimenting with groundbreaking visual effects, while actors deliver performances that leave lasting impressions. Streaming platforms are also gaining traction, releasing exclusive content that rivals traditional cinema. With such an exciting array of films, 2025 promises to be a memorable year for movie lovers."
+    }
+  ]
+  
